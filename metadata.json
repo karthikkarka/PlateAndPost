@@ -1,0 +1,6 @@
+{
+  "name": "PlateAndPost",
+  "description": "Every dish gets its photo. Professional dish photography, posters, video ads, and menu trackers for restaurant owners in Hyderabad by Karthik Karka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
