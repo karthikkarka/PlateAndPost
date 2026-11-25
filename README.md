@@ -1,4 +1,4 @@
-# PlateAndPost — Food Photography & Content Platform for Restaurants
+﻿# PlateAndPost — Food Photography & Content Platform for Restaurants
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat&logo=vercel)](https://plate-and-post.vercel.app)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
@@ -33,10 +33,10 @@ This website sits at the center of a complete suite of tools and automations:
 
 | Repository | Role in Ecosystem |
 | :--- | :--- |
-| [onfroy69/menu-photo-board](https://github.com/onfroy69/menu-photo-board) | Next.js + Supabase app tracking every dish from *No Photo* → *Live* |
-| [onfroy69/n8n-cafe-automations](https://github.com/onfroy69/n8n-cafe-automations) | Active Gemini AI front-desk chatbots & Google Sheets dish photo check workflow |
-| [onfroy69/cafe-news-digest-agent](https://github.com/onfroy69/cafe-news-digest-agent) | Scheduled Node.js + Gemini daily cafe & food-delivery intelligence agent |
-| [onfroy69/plateandpost-solution-proposals](https://github.com/onfroy69/plateandpost-solution-proposals) | Automated Puppeteer + `pdf-lib` client strategy deck & one-page offer engine |
+| [karthikkarka/menu-photo-board](https://github.com/karthikkarka/menu-photo-board) | Next.js + Supabase app tracking every dish from *No Photo* → *Live* |
+| [karthikkarka/n8n-cafe-automations](https://github.com/karthikkarka/n8n-cafe-automations) | Active Gemini AI front-desk chatbots & Google Sheets dish photo check workflow |
+| [karthikkarka/cafe-news-digest-agent](https://github.com/karthikkarka/cafe-news-digest-agent) | Scheduled Node.js + Gemini daily cafe & food-delivery intelligence agent |
+| [karthikkarka/plateandpost-solution-proposals](https://github.com/karthikkarka/plateandpost-solution-proposals) | Automated Puppeteer + `pdf-lib` client strategy deck & one-page offer engine |
 
 ---
 
